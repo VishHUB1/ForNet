@@ -1,6 +1,6 @@
 # ForNet
 
-ForNet is a two-stage CNN and ensemble learning system for forest sound classification using MFCC features from the FSMS dataset (2,664 clips from ESC-50 and UrbanSound8K). It detects anomalies like gunshots and wood sawing with 95% accuracy, aiding forest surveillance against illegal logging.
+ForNet is a two-stage CNN and ensemble learning system for forest sound classification using MFCC features from the FSMS dataset (2,263 clips from ESC-50 and UrbanSound8K). It detects anomalies like gunshots and wood sawing with high accuracy, aiding forest surveillance against illegal logging.
 
 ## Project Structure
 
