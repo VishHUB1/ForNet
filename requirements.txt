@@ -1,0 +1,15 @@
+Core libraries for data processing and machine learning
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+Audio processing
+librosa>=0.10.0
+Machine learning frameworks
+tensorflow>=2.15.0  # For CNN implementation
+scikit-learn>=1.4.0  # For ensemble learning and metrics
+Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+Optional: For saving models or embeddings
+h5py>=3.10.0
+joblib>=1.3.0
